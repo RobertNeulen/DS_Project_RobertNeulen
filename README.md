@@ -20,5 +20,5 @@ The folder
 is not included due to file size issues.
 
 To update the App, getting the new data into the respective sub-folders of the *data* folder is needed. The only manual control is with repsect to the translation of the NPI classes, which are partially done "by hand"in the following steps:
-* Translated in the downloaded Excel-File *data/other/datensatzbeschreibung_massnahmen*
-* Due to updated NPI categories (*data/other/datensatzbeschreibung_massnahmen_V2*), the translation was updated in the file *data_preparation_files/99_NPIDescription*
+* Translated in the downloaded Excel-File *data/other/datensatzbeschreibung_massnahmen.xlsx*
+* Due to updated NPI categories (*data/other/datensatzbeschreibung_massnahmen_V2.xlsx*), the translation was updated in the file *data_preparation_files/99_NPIDescription.R*
