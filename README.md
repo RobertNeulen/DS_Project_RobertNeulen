@@ -21,4 +21,4 @@ is not included due to file size issues.
 
 To update the App, getting the new data into the respective sub-folders of the *data* folder is needed. The only manual control is with repsect to the translation of the NPI classes, which are partially done "by hand"in the following steps:
 * Translated in the downloaded Excel-File *data/other/datensatzbeschreibung_massnahmen*
-* Due to an updated, new NPIs were introduced and hence the translation was updated in the file *data_preparation_files/99_NPIDescription*
+* Due to updated NPI categories (*data/other/datensatzbeschreibung_massnahmen_V2*), the translation was updated in the file *data_preparation_files/99_NPIDescription*
